@@ -1,0 +1,12 @@
+{
+    "name": "SamBlog",
+    "dependencies": {
+        "d3": "^5.7.0",
+        "d3-svg-legend": "^2.25.6",
+        "scales": "git+https://github.com/SamCallister/scales.git"
+    },
+    "devDependencies": {
+        "grunt": "^1.0.3",
+        "grunt-contrib-copy": "^1.0.0"
+    }
+}
