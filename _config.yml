@@ -4,7 +4,7 @@ email:       scottishsam@gmail.com
 author:      Sam Callister
 description: "Blog"
 baseurl:     ""
-url:         "http://samcallister.github.io/"
+url:         "https://samcallister.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
