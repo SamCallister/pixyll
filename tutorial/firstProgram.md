@@ -52,4 +52,6 @@ Your terminal should output:
 
 My first program
 
+If your program fails to run because python is not installed, download and install python [here](https://www.python.org/downloads/).
+
 Congrats on writing and running your first program! Next time we will learn about data types and variables.
