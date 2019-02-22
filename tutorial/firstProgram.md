@@ -50,7 +50,7 @@ python first.py
 
 Your terminal should output:
 
-My first program
+My first program!
 
 If your program fails to run because python is not installed, download and install python [here](https://www.python.org/downloads/).
 

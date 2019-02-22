@@ -9,3 +9,5 @@ Hey Tim! I'm glad you are interested in computers. I think they are the coolest 
 1. [Command Line Basics](commandLineBasics) learn some basic commands for exploring your computer.
 
 2. [Write Your First Program](firstProgram) learn how to write and run a python program.
+
+3. [Variables and Data Types](variablesAndDataTypes) learn about the building blocks of programs.
