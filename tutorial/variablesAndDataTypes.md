@@ -105,9 +105,9 @@ print(broken_string)
 Run the program. You should see an error message like this:
 
 ```
-  File "data.py", line 1
-    var = 'incomplete string
-                           ^
+  File "types.py", line 1
+    broken_string = 'incomplete string
+                                     ^
 SyntaxError: EOL while scanning string literal
 ```
 
@@ -115,7 +115,7 @@ The helpful error message tells us the line of our program that contains the err
 
 Can you fix the error in the program?
 
-Strings need to have an opening `'` and a closing `'`. Try adding the closing `'` to the line with `var` and running the program again.
+Strings need to have an opening `'` and a closing `'`. Try adding the closing `'` to the line with `broken_string` and running the program again.
 
 ## Write Another Program
 
