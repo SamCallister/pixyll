@@ -38,13 +38,13 @@ In the [last lesson](../firstProgram) the program we wrote had a string in it: `
 
 How do we store a string in a variable? First we come up with a variable name. We give variables names so we can reference them later in our program. Variable names can be any combination of characters without spaces. To store something in a variable we use the equal sign `=`.
 
-Here is an example of storing the string `'Tim'` inside a variable called `timBucket`:
+Here is an example of storing the string `'Tim'` inside a variable called `tim_bucket`:
 
 ```
 tim_bucket = 'Tim'
 ```
 
-The variable `timBucket` now holds the string `'Tim'`. We'll learn about how long variables live in a later lesson. For now just know that any variables you create only stick around while your program is running. When your program finishes, they are gone.
+The variable `tim_bucket` now holds the string `'Tim'`. We'll learn about how long variables live in a later lesson. For now just know that any variables you create only stick around while your program is running. When your program finishes, they are gone.
 
 ### Integers
 
@@ -64,13 +64,13 @@ We can store an integer into a variable with an equals sign just like with strin
 my_number = 1
 ```
 
-The above code stores the integer 1 into a variable named `myNumber`.
+The above code stores the integer 1 into a variable named `my_number`.
 
 ### Floats
 
 Floats are numbers that can have decimals. Some examples of floats are `1 1.4 0.5` etc. Note that they don't need to have a decimal component but they can.
 
-Here is an example of storing 1/2 into a variable called `oneHalf`:
+Here is an example of storing 1/2 into a variable called `one_half`:
 
 ```
 one_half = 0.5
